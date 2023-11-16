@@ -1,0 +1,36 @@
+Server Need a Static IP
+
+................................................
+Dekstop > IPv4 Add. > 192.10.10.2 (Ex.)
+Subnet Mask (Press Tab)
+
+................................................
+Services > DHCP 
+DHCP : Get IP add. in Just a Single Click (by Server)
+Default Gateway - 192.10.10.(CHANGE)
+DNS Server - 192.10.10.2
+
+Start IP - 192.10.10.(CHANGE)
+
+MAx. No. Of User - 253
+
+[SAVE]
+
+................................................
+Services > DNS
+
+By Default Off > Change to On
+
+Name of Domain - anshul.in
+
+[ADD]
+
+
+................................................
+Click on PC > Dekstop > IP Config. > Static to DHCP.
+................................................
+
+
+
+DNS - Domain Name Server 
+SMTP - 
